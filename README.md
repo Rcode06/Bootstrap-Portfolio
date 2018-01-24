@@ -7,7 +7,7 @@
 ![Screenshot](images/aboutmepage.jpg)
 
 
-![Screenshot](images/contact.jpg)
+![Screenshot](images/contactpage.jpg)
 
 ![Screenshot](images/portfoliopage.jpg)
 ## Author
